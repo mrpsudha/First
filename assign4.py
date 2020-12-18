@@ -87,3 +87,4 @@ def multpoly(p1,p2):
 
 
 multpoly([(1,1),(-1,0)],[(1,2),(1,1),(1,0)])
+#end of story
